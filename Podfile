@@ -1,0 +1,4 @@
+xcodeproj 'CrimsonFoundation'
+platform :ios, '7.0'
+
+pod 'CocoaLumberjack'
