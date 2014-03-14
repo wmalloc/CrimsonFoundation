@@ -12,11 +12,4 @@
 
 #import <CRFLog.h>
 #import <NSData+Crypto.h>
-#import <CRFKeychainItem.h>
-#import <CRFHashValue.h>
-#import <CRFProduct.h>
-#import <CRFProduct+Private.h>
-#import <CRFReceiptValidator.h>
-#import <CRFStoreManager.h>
-#import <SKPaymentTransaction+StoreManager.h>
-#import <SKProduct+StoreManager.h>
+#import <NSString+Foundation.h>
